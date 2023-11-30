@@ -1,0 +1,2 @@
+class while:
+    pass
