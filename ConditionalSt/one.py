@@ -1,4 +1,5 @@
-ename=input('Enter Employee Name:')
-eid = input('Enter Employee Id:')
-
-print('Employee id:' + eid)
+sal = 45000
+if(sal>40000):
+    print("Eligible for M")
+else:
+    print('Not E')
