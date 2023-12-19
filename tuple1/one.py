@@ -1,0 +1,12 @@
+t1=()
+t2=(10,20,30,40)
+t3=(10,20,10,20)
+t4=(10,"Rahul",30.5,True,[],())
+
+t5=tuple(range(10))
+ids=(101,102,103,104)
+print(type(t1))
+print(type(t2))
+print(type(t3))
+print(type(t4))
+print(type(t5))
