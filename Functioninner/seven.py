@@ -1,12 +1,12 @@
 def outer():
-    print("Outer Function") 
+    print("Outer Function")
 
     def inner():
         print("Inner Function")
 
-
-    
     return inner
-inner=outer()
+
+
+inner = outer()
 inner()
 inner()
