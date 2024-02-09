@@ -1,0 +1,10 @@
+try:
+   #riskly code 
+
+except:
+    #handling code 
+
+finally:
+    #clean-up code 
+
+raise  - to create user defined error
