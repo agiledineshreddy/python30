@@ -1,0 +1,5 @@
+Write python script to
+invole api, insert data into mongodb collection.
+https://jsonplaceholder.typicode.com/users
+
+How to invoke API's - using pthon requests module.
