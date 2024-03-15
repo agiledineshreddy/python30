@@ -3,3 +3,30 @@ invole api, insert data into mongodb collection.
 https://jsonplaceholder.typicode.com/users
 
 How to invoke API's - using pthon requests module.
+
+
+
+
+Q)invoke Rest API - and insert data into mongodb - Collection and MySQL DB
+
+Step 1: How to invoke Rest API?
+        using requests module 
+        requests has few methods get(),post(),put(),delete()
+    
+step 2:Analyse the data, and transform if required.
+
+step 3: insert data into mongodb 
+        -using pymongo 
+        
+step 4: insert data into mysql 
+       - using mysql.connector
+
+
+https://dummyjson.com/products
+
+id,title,price,brand - insert into mongodb colllection
+insert into mysql product table
+
+-table 
+
+
