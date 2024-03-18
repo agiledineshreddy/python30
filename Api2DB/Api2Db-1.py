@@ -1,0 +1,11 @@
+import requests
+import pymongo
+import mysql.connector
+
+product_resp = requests.get('https://dummyjson.com/products')
+product_data = product_resp.json()
+product_List = product_data['products']
+print(type(product_List))
+# print(type(product_data['products']))
+# trasform data, if required
+# load into mongodb and mysql
